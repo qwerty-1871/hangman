@@ -1,0 +1,15 @@
+gain
+fire
+guess
+head
+body
+hand
+tea
+water
+case
+love
+kill
+eat
+pray
+prey
+pen
