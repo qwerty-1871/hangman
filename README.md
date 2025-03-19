@@ -4,6 +4,7 @@ Hello! I created this as part of a school project where I learned about Python. 
 ## Installation
 To run this program, you need to have Python installed. You can get it for your operating system from https://www.python.org/downloads/  
 Press "Releases" on the right side of this GitHub page. The most recent release will be at the top of the page. Press "Assets" then "hangman-version.tar.gz" and download it. 
+You will have to right click on the program and extract it before running.  
 ## Running the program
 How you run the program will depend on your operating system:  
 On Windows, you should be able to double click on the program(hangman.py) like any other and it will open in a terminal windows  
